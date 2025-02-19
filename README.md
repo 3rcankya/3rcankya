@@ -22,7 +22,7 @@ Frontend, backend ve mobil uygulama geliştirme konularında geniş bir tecrübe
   - **Veri analitiği ve büyük veri yönetimi**  
 
 - 💬 Bana ulaşın:  
-  - 📧 **E-posta:** [erkan.kaya@example.com](mailto:erkan.kaya@example.com)  
+  - 📧 **E-posta:** [erkan.kaya@mdsiber.com](mailto:ercan.kaya@mdsiber.com)  
   - 🔗 **LinkedIn:** [linkedin.com/in/3rcankya](https://www.linkedin.com/in/3rcankya)  
   - 🐙 **GitHub:** [github.com/3rcankya](https://github.com/3rcankya)  
 
